@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Book Reviews</title>
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+        />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css"
+            integrity="sha384-xxzQGERXS00kBmZW/6qxqJPyxW3UR0BPsL4c8ILaIWXva5kFi7TxkIIaMiKtqV1Q"
+            crossorigin="anonymous"
+        />
+        <!-- FONT -->
+        <link
+            href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,900|Source+Sans+Pro:300,900&display=swap"
+            rel="stylesheet"
+        />
+
+        <link rel="stylesheet" href="css/styles.css" />
+    </head>
+    <body>
+        <header>
+            <div class="header">
+                <div class="logo site_logo">
+                    <span class="logo_text">YC</span>
+                    
+                </div>
+                
+                <h4>Book Reviews</h4>
+            </div>
+        </header>
+        <main>
+            <div class="container">
+                <div class="title">
+                    <h2>Book reviews</h2>
+                    
+                </div>
+                <article class="review">
+                    <div class="img-container">
+                        <img src="./image/book_cover_01.jpg" id="book_cover" alt="book_cover_01"/>
+                    </div>
+                    <h4 id="author">Donna Leon</h4>
+                    <p id="date">March 24, 2021</p>
+                    <p id="title">Evils Lurking Beneath a City’s Centuries-Old Canals</p>
+                    <p id="content">The city of Venice is such a beguiling presence in Donna Leon’s mysteries, it can eclipse the serious crimes that drive her modern-day plots. Over the course of 30 novels featuring her compassionate police detective, Commissario Guido Brunetti, the American-born author has seized on fundamental Venetian plagues like government corruption, illegal immigration and badly behaved tourists. 
+                        <br>
+                        Which is not to overlook such scourges as bureaucratic inertia, rampant nepotism and rising seas.
+                        <br>
+                        In “Transient Desires,” Brunetti raises a judgmental eyebrow at the follies of youth, who tend to get rowdy on warm Saturday nights in Campo Santa Margherita. Two young local men pick up a couple of American girls there and — after an accident in the laguna — abandon them on a dock outside the hospital.</p>
+                <!-- prev next buttons-->
+                <div class="button_container">
+                    <button class="prev_btn">
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
+                    <button class="next_btn">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+                <!-- random button -->
+                <button class="btn random_btn">surprise me</button>
+                </article>
+            </div>
+        </main>
+        <script src="js/app.js"></script>
+    </body>
+</html>
