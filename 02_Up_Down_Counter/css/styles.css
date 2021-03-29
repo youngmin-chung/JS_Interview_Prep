@@ -185,13 +185,8 @@ main {
   .container {
     text-align: center;
   }
-  .container h2 {
-    background: var(--color-black);
-    color: var(--color-light);
-    padding: 1rem;
-    border-radius: var(--radius);
-    margin-bottom: 2.5rem;
-  }
-  .color {
-    color: var(--color-light);
+
+  #value {
+    font-size: 6rem;
+    font-weight: bold;
   }
