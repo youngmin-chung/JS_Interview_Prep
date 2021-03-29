@@ -1,0 +1,7 @@
+{
+    "prettier.htmlWhitespaceSensitivity": "strict",
+    "editor.formatOnSave": true,
+    "json.schemas": [
+    
+    ]
+}

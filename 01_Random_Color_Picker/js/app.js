@@ -11,7 +11,9 @@ btn.addEventListener("click", function () {
 
   color.textContent = hexColor;
   document.body.style.backgroundColor = hexColor;
-  document.getElementById('font_color').setAttribute("style",`color:${hexColor}`);
+  document
+    .getElementById("font_color")
+    .setAttribute("style", `color:${hexColor}`);
 });
 
 function getRandomNumber() {
