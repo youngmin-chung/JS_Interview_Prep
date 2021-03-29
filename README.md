@@ -6,6 +6,7 @@
 
 - [Random Color Picker](http://youngminchung.com/JS_Interview_Prep/01_Random_Color_Picker/)
 - [Up and Down Counter](http://youngminchung.com/JS_Interview_Prep/02_Up_Down_Counter/)
+- [Book Review](http://youngminchung.com/JS_Interview_Prep/03_Book_Review/)
 
 
 
