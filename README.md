@@ -1,6 +1,4 @@
 ## JS_Interview_Prep
-- [Original Source Link by Free Code Camp](https://youtu.be/3PHXvlpOkf4?list=PL3NCt2U_5fN3AbnxMaBxlX2Om2m-w8jcT)
-
 
 ### Purpose
 #### By building JavaScript toy projects, learn and prepare practical interview
@@ -11,7 +9,8 @@
 - [Nav Bar Practice](http://youngminchung.com/JS_Interview_Prep/04_Nav_Bar/)
 - [Side Bar](http://youngminchung.com/JS_Interview_Prep/05_Side_Bar/)
 
-
+### 
+- [Original Source Link by Free Code Camp](https://youtu.be/3PHXvlpOkf4?list=PL3NCt2U_5fN3AbnxMaBxlX2Om2m-w8jcT)
 
 
 
