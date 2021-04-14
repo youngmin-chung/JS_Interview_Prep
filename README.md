@@ -16,6 +16,8 @@
 - [Tab](http://youngminchung.com/JS_Interview_Prep/11_Tab/)
 - [Countdown](http://youngminchung.com/JS_Interview_Prep/12_Countdown/)
 - [Random paragraph generator](http://youngminchung.com/JS_Interview_Prep/13_Lorem_Ipsum/)
+- [TODO](http://youngminchung.com/JS_Interview_Prep/14_Todo/)
+- [Slider](http://youngminchung.com/JS_Interview_Prep/15_Slider/)
 
 ### 
 - [Original Source Link by Free Code Camp](https://youtu.be/3PHXvlpOkf4?list=PL3NCt2U_5fN3AbnxMaBxlX2Om2m-w8jcT)
