@@ -17,9 +17,14 @@
 - [Tab](http://youngminchung.com/JS_Interview_Prep/11_Tab/)
 - [Countdown](http://youngminchung.com/JS_Interview_Prep/12_Countdown/)
 - [Random paragraph generator](http://youngminchung.com/JS_Interview_Prep/13_Lorem_Ipsum/)
+<<<<<<< HEAD
 - [Grocery Bud](http://youngminchung.com/JS_Interview_Prep/14_Todo/)
 
  
+=======
+- [TODO](http://youngminchung.com/JS_Interview_Prep/14_Todo/)
+- [Slider](http://youngminchung.com/JS_Interview_Prep/15_Slider/)
+>>>>>>> 0987877bcfbf2cee944a3345f4319b6972299a3d
 
 
 
